@@ -1,4 +1,3 @@
 # practiceGit
-version#0.1
-git ssh test
-AABBCCC
+Run a git flow by Git-branching-model
+Author: Vincent Driessen
